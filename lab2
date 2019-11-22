@@ -1,0 +1,6 @@
+mkdir shch
+cd shch
+git init
+nano test.txt
+git add test.txt
+git commit -m "First commit"
